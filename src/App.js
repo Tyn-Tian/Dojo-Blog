@@ -1,5 +1,5 @@
-import Home from "./Home";
-import Navbar from "./Navbar";
+import Home from "./pages/Home";
+import Navbar from "./components/Navbar";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
